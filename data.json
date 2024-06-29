@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Buy groceries",
+    "description": "Purchase vegetables, fruits, and dairy products",
+    "isCompleted": false,
+    "priority": "high",
+    "dateTime": "2024-06-29T10:00:00Z"
+  },
+  {
+    "title": "Complete project report",
+    "description": "Finalize and submit the project report by EOD",
+    "isCompleted": false,
+    "priority": "medium",
+    "dateTime": "2024-06-30T17:00:00Z"
+  },
+  {
+    "title": "Doctor's appointment",
+    "description": "Annual health check-up",
+    "isCompleted": true,
+    "priority": "high",
+    "dateTime": "2024-07-01T09:00:00Z"
+  },
+  {
+    "title": "Team meeting",
+    "description": "Discuss project milestones and next steps",
+    "isCompleted": false,
+    "priority": "low",
+    "dateTime": "2024-07-02T15:00:00Z"
+  },
+  {
+    "title": "Call plumber",
+    "description": "Fix the leaking kitchen sink",
+    "isCompleted": true,
+    "priority": "high",
+    "dateTime": "2024-07-03T11:00:00Z"
+  }
+]
